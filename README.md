@@ -1,0 +1,2 @@
+# insurance-data
+Analyze the information given in the following ‘Insurance Policy dataset’ to create clusters of persons falling in the same type.  The description of the attributes in the dataset are as follows: Premium Paid – Amount paid by the person Age – Indicates the age of the person Days to renew – Days remaining to renew the policy Claims made – Indicates the claims already made by the person Income – Net income of the person
